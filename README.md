@@ -1,1 +1,4 @@
-# prismaiptvod
+#EXTM3U
+
+#EXTINF:-1 , Cmo crear y editar listas M3U fácilmente
+https://r6---sn-uxaxjvh5gbxoupo5-x1xk.googlevideo.com/videoplayback?expire=1605737724&ei=nEi1X5X3L9GA-LAPru-vsA0&ip=186.0.184.121&id=o-APk_rcZH5tdL2qd-tOomE8bmq5sMqk__2CeVcXn45Sd2&itag=22&source=youtube&requiressl=yes&mh=AF&mm=31%2C26&mn=sn-uxaxjvh5gbxoupo5-x1xk%2Csn-nja7yn7e&ms=au%2Conr&mv=m&mvi=6&pcm2cms=yes&pl=24&initcwndbps=385000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=286.325&lmt=1587880260826823&mt=1605715964&fvip=6&c=WEB&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgSxzLmKLoaYBzph7-vcBsiMztwliW-mrzr2v8ILFayYsCIQDA3VE0qK3o87pGWlIhQ8NIIlFTQ6ZkBS4fjiCqw9x3Gw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgO0iMlNOa0mvv0HAbYieiCMyR6Yww8x0fSWLMgNs7kEYCIQDrSiUdPQTiSEnMPZKoNpZSUWnyw5ubaRn4on0bzzl72Q%3D%3D
